@@ -1,9 +1,31 @@
-        <style>
+
         h2{
             color: aqua;
             font-style: italic;
         }
         p{
+            font-family: monospace;
+            font-style: italic;
+            text-align: center;
+            text-transform: capitalize;
             color: blueviolet;
+            font-size: 16px;
+
         }
-    </style>
+        h3{
+            opacity: 0.12;
+            background-color: blueviolet;
+        }
+        body{
+            background-image: url(/suika-ibuki-touhou.png);
+        }
+        h4{
+            opacity: 0;
+        }
+        h5{
+            display: none;
+        }
+        h6{
+            visibility: hidden;
+        }
+ 
